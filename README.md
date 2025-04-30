@@ -54,7 +54,7 @@ This project implements a **simple feedforward neural network from scratch using
 ## 📁 Files
 
 - `Neural_network_from_scratch.ipynb`: Complete code and training logs
-- `requirements.txt`: Required packages
+
 
 ---
 
